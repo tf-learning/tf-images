@@ -4,9 +4,12 @@ Go over the [MNIST for ML beginners tutoria](https://www.tensorflow.org/get_star
 
 Install with:
 
-```
-pip install -r requirements.txt
-```
+  ```
+  pip install -r requirements.txt
+  ```
 
-MNIST data is hosted on [Yann LeCun's website](http://yann.lecun.com/exdb/mnist/).
+Run test with:
 
+  ```
+  pytest mnist_softmax_test.py
+  ```
