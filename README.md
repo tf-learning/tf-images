@@ -8,8 +8,5 @@ Install with:
 pip install -r requirements.txt
 ```
 
-Download files from [yann.lecun.com](http://yann.lecun.com/exdb/mnist/) with:
+MNIST data is hosted on [Yann LeCun's website](http://yann.lecun.com/exdb/mnist/).
 
-```
-./scripts/download.sh
-```
