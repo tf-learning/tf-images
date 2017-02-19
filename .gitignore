@@ -69,5 +69,5 @@ target/
 venv/
 ENV/
 
-# My stuff
-downloads/
+# tutorial
+MNIST_data
